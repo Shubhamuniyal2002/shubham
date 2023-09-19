@@ -1,6 +1,5 @@
-mjsagukdhskjds
-udkhuisdedd
-sef
-sf
-rrw
-f
+this is a new prject 
+append('new')
+remove("ok")
+jhssjjkdh
+jhgdj
